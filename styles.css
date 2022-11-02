@@ -1,0 +1,82 @@
+		<link rel="stylesheet" href="styles.css">
+	<style>
+
+body {background-color:bl;}
+
+h1 {
+color: grey;
+font-size: 25px;
+font-family: arial;
+	}
+
+h5 {
+color: grey;
+font-size: 20px;
+font-family: calibri;
+	}
+
+p {
+color: grey;
+font-size: 16px;
+font-family: calibri;
+text-align: center;
+	}
+
+h6 {
+color: grey;
+font-size: 20px;
+font-family: calibri;
+	}
+
+img {
+width: 375px;
+height: 30px;
+margin: 1px auto;
+display: block;
+	}
+
+img.one {
+width: 100px;
+height: 30px;
+margin: 1px auto;
+display: block;
+	}
+
+img.two {
+width: 375px;
+height: 125px;
+margin: 1px auto;
+display: block;
+	}
+
+img.three {
+width: 400px;
+height: 200px;
+margin: 1px auto;
+display: block;
+	}
+
+img.four {
+width: 600px;
+height: 750px;
+margin: 1px auto;
+display: block;
+	}
+
+.img-banner {
+width: 468px;
+height: 120px;
+margin: 1px auto;
+display: block;
+	}
+
+a {
+color: white;
+font-size: 20px;
+font-family: calibri;
+	}
+
+.background.jpg {
+width: 200px}
+
+	</style>
